@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', function () {
   
     
     const blogPosts = [
-      { title: 'Chelsea FC Transfer Update', content: 'Just Chelsea news....', href: 'https://chelseanews.com', buttonText: 'Visit Chelsea News' },
-      { title: 'TalkSport News', content: 'Get the latest Sports Update.', href: 'https://talksport.com/football', buttonText: 'Visit Talksport' },
-      { title: 'SkySport News', content: 'Transfer Center.', href: 'https://www.skysports.com/transfer-centre', buttonText: 'Visit SkySports' },
+      { title: 'Chelsea FC Transfer Update', content: 'Chelsea news', href: 'https://chelseanews.com', buttonText: 'Visit Chelsea News' },
+      { title: 'TalkSport News', content: 'Sport news from Talksport', href: 'https://talksport.com/football', buttonText: 'Visit Talksport' },
+      { title: 'SkySport News', content: 'Sky sport Transfer Center', href: 'https://www.skysports.com/transfer-centre', buttonText: 'Visit SkySports' },
     ];
   
     
